@@ -1,0 +1,511 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\f2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\f2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Main_Project-20240213T010502Z-001\\Main_Project\\Cshap_group_project\\Cshap_group_project\\F2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\livingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\livingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\gametime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\gametime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rob99\\OneDrive\\\uBB38\uC11C\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\livingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\livingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\fridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\fridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\f2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\f2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\lock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\lock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\goast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\goast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\underground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\underground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\under_fridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\under_fridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\boxopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\boxopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\finalspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\finalspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\boxopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\boxopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\fridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\fridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|c:\\c_sharp_group_project\\cshap_group_project\\cshap_group_project\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AD0EC7-D59B-4A21-B1C7-75EBB1D25039}|Cshap_group_project\\Cshap_group_project.csproj|solutionrelative:cshap_group_project\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "F2.cs",
+              "DocumentMoniker": "C:\\Main_Project-20240213T010502Z-001\\Main_Project\\Cshap_group_project\\Cshap_group_project\\F2.cs",
+              "RelativeDocumentMoniker": "..\\..\\Main_Project-20240213T010502Z-001\\Main_Project\\Cshap_group_project\\Cshap_group_project\\F2.cs",
+              "ToolTip": "C:\\Main_Project-20240213T010502Z-001\\Main_Project\\Cshap_group_project\\Cshap_group_project\\F2.cs",
+              "RelativeToolTip": "..\\..\\Main_Project-20240213T010502Z-001\\Main_Project\\Cshap_group_project\\Cshap_group_project\\F2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T02:47:39.468Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameTime.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\GameTime.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\GameTime.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\GameTime.cs",
+              "RelativeToolTip": "Cshap_group_project\\GameTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LivingRoom.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\LivingRoom.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\LivingRoom.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\LivingRoom.cs",
+              "RelativeToolTip": "Cshap_group_project\\LivingRoom.cs",
+              "ViewState": "AQIAAGEBAAAAAAAAAAAgwJ8BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mainscreen.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\mainscreen.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\mainscreen.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\mainscreen.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Cshap_group_project\\mainscreen.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.635Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainscreen.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\mainscreen.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\mainscreen.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\mainscreen.cs",
+              "RelativeToolTip": "Cshap_group_project\\mainscreen.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Temp.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Temp.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\Temp.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Temp.cs",
+              "RelativeToolTip": "Cshap_group_project\\Temp.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAEwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "F2.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\F2.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\F2.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\F2.cs",
+              "RelativeToolTip": "Cshap_group_project\\F2.cs",
+              "ViewState": "AQIAABEBAAAAAAAAAAAswIoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LivingRoom.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\LivingRoom.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\LivingRoom.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\LivingRoom.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Cshap_group_project\\LivingRoom.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.659Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "fridge.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\fridge.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\fridge.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\fridge.cs",
+              "RelativeToolTip": "Cshap_group_project\\fridge.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAAJcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Form2.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\Form2.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Form2.cs",
+              "RelativeToolTip": "Cshap_group_project\\Form2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Form2.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\Form2.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Form2.cs",
+              "RelativeToolTip": "Cshap_group_project\\Form2.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAmwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Form9.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\Form9.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Form9.cs",
+              "RelativeToolTip": "Cshap_group_project\\Form9.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "inventory.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\inventory.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\inventory.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\inventory.cs",
+              "RelativeToolTip": "Cshap_group_project\\inventory.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Form4.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\Form4.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Form4.cs",
+              "RelativeToolTip": "Cshap_group_project\\Form4.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "F2.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\F2.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\F2.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\F2.cs",
+              "RelativeToolTip": "Cshap_group_project\\F2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lock.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Lock.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\Lock.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Lock.cs",
+              "RelativeToolTip": "Cshap_group_project\\Lock.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "goast.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\goast.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\goast.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\goast.cs",
+              "RelativeToolTip": "Cshap_group_project\\goast.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Form8.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\Form8.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Form8.cs",
+              "RelativeToolTip": "Cshap_group_project\\Form8.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Temp.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Temp.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\Temp.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Temp.cs",
+              "RelativeToolTip": "Cshap_group_project\\Temp.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Underground.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Underground.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\Underground.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Underground.cs",
+              "RelativeToolTip": "Cshap_group_project\\Underground.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Under_Fridge.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Under_Fridge.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\Under_Fridge.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Under_Fridge.cs",
+              "RelativeToolTip": "Cshap_group_project\\Under_Fridge.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BoxOpen.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\BoxOpen.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\BoxOpen.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\BoxOpen.cs",
+              "RelativeToolTip": "Cshap_group_project\\BoxOpen.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAswGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Finalspace.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Finalspace.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\Finalspace.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Finalspace.cs",
+              "RelativeToolTip": "Cshap_group_project\\Finalspace.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAvwFEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Form6.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\Form6.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Form6.cs",
+              "RelativeToolTip": "Cshap_group_project\\Form6.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BoxOpen.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\BoxOpen.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\BoxOpen.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\BoxOpen.cs",
+              "RelativeToolTip": "Cshap_group_project\\BoxOpen.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Form8.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\Form8.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Form8.cs",
+              "RelativeToolTip": "Cshap_group_project\\Form8.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAzwDAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form10.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Form10.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\Form10.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Form10.cs",
+              "RelativeToolTip": "Cshap_group_project\\Form10.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvyAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form10.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Form10.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\Form10.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Form10.cs",
+              "RelativeToolTip": "Cshap_group_project\\Form10.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\rob99\\OneDrive\\\uBB38\uC11C\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\Item.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\rob99\\OneDrive\\\uBB38\uC11C\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\Item.cs",
+              "ToolTip": "C:\\Users\\rob99\\OneDrive\\\uBB38\uC11C\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\Item.cs",
+              "RelativeToolTip": "..\\..\\Users\\rob99\\OneDrive\\\uBB38\uC11C\\\uCE74\uCE74\uC624\uD1A1 \uBC1B\uC740 \uD30C\uC77C\\Item.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-03T03:07:02.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "fridge.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\fridge.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\fridge.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\fridge.cs",
+              "RelativeToolTip": "Cshap_group_project\\fridge.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Cshap_group_project\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\C_Sharp_Group_Project\\Cshap_group_project\\Cshap_group_project\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Cshap_group_project\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAADgv1UAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:55:09.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
